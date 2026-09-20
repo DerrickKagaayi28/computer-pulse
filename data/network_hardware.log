@@ -1,0 +1,33 @@
+﻿==================================================== 
+COMPUTER PULSE - HARDWARE & NETWORK LOG    
+==================================================== 
+Timestamp          : 2026-09-20 15:46:32 
+Active Processes   : 221 running processes 
+CPU Utilization    : 2% load 
+---------------------------------------------------- 
+Top 3 Memory-Consuming Processes: 
+
+Name               RAM_MB
+----               ------
+Memory Compression 502.96
+chrome             470.52
+chrome             257.98
+
+
+
+---------------------------------------------------- 
+Disk Storage Breakdown: 
+
+DeviceID FreeGB TotalGB
+-------- ------ -------
+C:       104.68  159.75
+D:        78.03   78.12
+G:        99.44  159.75
+
+
+
+---------------------------------------------------- 
+Network Diagnostics: 
+Active IPv4 Address: 10.170.93.232 
+Internet Latency   : 133 ms (Target: 8.8.8.8) 
+==================================================== 
